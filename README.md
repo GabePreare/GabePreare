@@ -1,4 +1,4 @@
-<h2>Hello there! 👋 i'am Gabriel Pereira, a Brazzilian student of Software Development.</h2>
+<h2>Hello there! 👋 i'am Gabriel Pereira, a Brazilian student of Software Development.</h2>
 <p><b>About me</b></p>
 <p>Since I was a little boy, I've always wanted to be the person people can count on when they need help. This desire stems from the values my parents taught me over the years. At college, I've always tried to help those who struggled with the course content. When it comes to helping others, translating complex concepts about technology brings me great joy.<br><br>
 
