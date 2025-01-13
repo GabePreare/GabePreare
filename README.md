@@ -1,5 +1,4 @@
-## Hi there 👋
-<h2>Hello there! i'am Gabriel Pereira, a Brazzilian student of Software Development.</h2>
+<h2>Hello there! 👋 i'am Gabriel Pereira, a Brazzilian student of Software Development.</h2>
 
 <!--
 **GabePreare/GabePreare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
