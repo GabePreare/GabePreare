@@ -1,5 +1,6 @@
 <h2>Hello there! 👋 i'am Gabriel Pereira, a Brazzilian student of Software Development.</h2>
 <p><b>About me</b></p>
+<p>Since I was a little boy, I've always wanted to be the person that you could count if you need any help, and that's a result of what I learned from my parents over the years. At College, I've always helped out those who had a little difficult about the content of the class, when it comes to help people, translate the understanding about technology makes me very happy. In 2022 I entered at a Technical course in IT that introduced me to the world of development. First we were introduced to programming logic using Portugol and a little bit of Python. Since then I've decided that i was going to became a Software Enginneer.</p>
 <!--
 **GabePreare/GabePreare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
